@@ -1,5 +1,4 @@
-package tnsif.day10;
-
+package tnsif.day10.singledimensiondemo;
 
 import java.util.Arrays;
 
@@ -9,7 +8,7 @@ public class ArrayClassDemo {
 		
 		//get the array 
 		int intArr[] = {69,20,12,40,35};
-		
+
 		//print the array 
 		
 		System.out.println(Arrays.toString(intArr));
